@@ -1,4 +1,4 @@
-Google Drive link to my ala2-https://drive.google.com/file/d/1m_lnrB3YAC1Ukd4Zz8-j-TQgOFhQdG9L/view?usp=sharing
+<img width="800" height="1600" alt="image" src="https://github.com/user-attachments/assets/c88fd5d0-5ff7-4edf-a348-b98afffd979f" /><img width="800" height="1600" alt="image" src="https://github.com/user-attachments/assets/4a62b645-147b-44e7-b0d2-42db90f521a4" />Google Drive link to my ala2-https://drive.google.com/file/d/1m_lnrB3YAC1Ukd4Zz8-j-TQgOFhQdG9L/view?usp=sharing
 
 Name: Mansi Doshi
 Enrollment Number: 20230905090518
@@ -7,6 +7,7 @@ Subject: Android Development Framework
 ALA: 2
 
 ADF ALA-2: Product REST API Integration
+
 Overview:
 This project is developed as part of the Application Development Framework (ADF) ALA-2 assignment. The main objective is to demonstrate REST API integration in a front-end application to fetch and display product data dynamically. The project uses a public Product API to retrieve a list of products and displays 20 products on the user interface with essential details like title, price, description, and image.
 
@@ -58,10 +59,6 @@ Only first 20 products are displayed (if API returns more than 20).
 Each product card shows image, title, description, and price.
 Styled using CSS for clean and responsive layout.
 
-Screenshots:
-
-
-
 Key Learnings:
 Understanding REST API concept and HTTP requests.
 Parsing JSON and dynamically rendering content on UI.
@@ -76,3 +73,4 @@ Add search and filter functionality for better usability.
 Integrate product categories to group products.
 Implement cart functionality for a mini e-commerce demo.
 Improve styling using Bootstrap or Tailwind CSS.
+
