@@ -1,4 +1,4 @@
-<img width="800" height="1600" alt="image" src="https://github.com/user-attachments/assets/c88fd5d0-5ff7-4edf-a348-b98afffd979f" /><img width="800" height="1600" alt="image" src="https://github.com/user-attachments/assets/4a62b645-147b-44e7-b0d2-42db90f521a4" />Google Drive link to my ala2-https://drive.google.com/file/d/1m_lnrB3YAC1Ukd4Zz8-j-TQgOFhQdG9L/view?usp=sharing
+Google Drive link to my ala2-https://drive.google.com/file/d/1m_lnrB3YAC1Ukd4Zz8-j-TQgOFhQdG9L/view?usp=sharing
 
 Name: Mansi Doshi
 Enrollment Number: 20230905090518
@@ -73,4 +73,15 @@ Add search and filter functionality for better usability.
 Integrate product categories to group products.
 Implement cart functionality for a mini e-commerce demo.
 Improve styling using Bootstrap or Tailwind CSS.
+
+<img width="600" height="1000" alt="image" src="https://github.com/user-attachments/assets/a6566110-09ce-4a23-88cb-9793dd04dc6a" />
+
+
+<img width="600" height="1000" alt="image" src="https://github.com/user-attachments/assets/c9b619f5-d824-46d9-8162-fd66d20346a4" />
+
+
+<img width="600" height="1000" alt="image" src="https://github.com/user-attachments/assets/1434232d-9767-4356-947c-d20144eb1fab" />
+
+
+
 
