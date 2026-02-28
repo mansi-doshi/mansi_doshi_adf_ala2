@@ -1,0 +1,12 @@
+name: mansi_doshi_adf_ala2
+description: A new Flutter project.
+publish_to: 'none'
+
+# This is the "environment" block the error is asking for
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
